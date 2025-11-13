@@ -4,8 +4,11 @@ This project analyzes genomic microarray data to identify key molecular drivers 
 
 Data Source
 Dataset: Gene Expression Omnibus (GEO)
+
 Accession: GSE48558
+
 Platform: Affymetrix Human Genome U133 Plus 2.0 Array
+
 Sample Size: ~170 samples (Leukemia vs. Normal)
 
 Languagues:
