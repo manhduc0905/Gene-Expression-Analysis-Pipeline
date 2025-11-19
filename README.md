@@ -28,3 +28,5 @@ Libraries: pandas, seaborn, matplotlib, gseapy (Enrichr), scikit-learn, lifeline
 
 ![GO_Down](Gene%20Expression%20Analysis%20Pipeline/figures/GO%20Biological%20Processes%20(Down-Regulated%20in%20Leukemia).png)
 
+![GO_Up](Gene%20Expression%20Analysis%20Pipeline/figures/GO%20Biological%20Processes%20(Up-Regulated%20in%20Leukemia).png)
+
